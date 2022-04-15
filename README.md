@@ -1,7 +1,7 @@
 ### Python developer 👋
 
 ### contact:
-lnh19@yandex.ru
+artgen.ivanov@gmail.com
 
 ### skillset
 backend: Python
