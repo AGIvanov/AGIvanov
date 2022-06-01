@@ -1,10 +1,10 @@
-### Python developer 👋
+### Django developer 👋
 
 ### contact:
 artgen.ivanov@gmail.com
 
 ### skillset
-backend: Python
+backend: Django
 
 databases: PostgreSQL
 
