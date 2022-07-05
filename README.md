@@ -4,7 +4,7 @@
 artgen.ivanov@gmail.com
 
 ### skillset
-backend: Django
+backend: Django, DRF
 
 databases: PostgreSQL
 
