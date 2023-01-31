@@ -8,4 +8,4 @@ backend: Ruby on Rails, Django, DRF
 
 databases: PostgreSQL
 
-env & tools: Windows, Linux, PyCharm, Visual Studio Code, RubyMine
+env & tools: Windows, Linux, PyCharm, Visual Studio Code
