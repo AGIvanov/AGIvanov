@@ -1,11 +1,11 @@
-### Rails & Django developer 👋
+### Rails developer 👋
 
 ### contact:
 artgen.ivanov@gmail.com
 
 ### skillset
-backend: Ruby on Rails, Django, DRF
+backend: Ruby on Rails
 
 databases: PostgreSQL
 
-env & tools: Windows, Linux, PyCharm, Visual Studio Code
+env & tools: Windows, Linux, Visual Studio Code
